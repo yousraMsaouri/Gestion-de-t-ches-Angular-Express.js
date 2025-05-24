@@ -64,7 +64,15 @@ Méthode 	Endpoint	       Description
 # Interface utilisateur avec filtre activé
 ![image](https://github.com/user-attachments/assets/a9d8369e-f7bb-4b4a-9e90-160c5cfc9ab2)
 # Interface Postman 
-![image](https://github.com/user-attachments/assets/3e097b43-8544-4c66-a409-7d12d61f6f6f)
+## Requete GET :
+![image](https://github.com/user-attachments/assets/ed950f78-12ba-4438-bdb7-3551c81b0941)
+## Requete POST : 
+![image](https://github.com/user-attachments/assets/0e7c16ca-c136-47c3-b8f4-08f7754b361e)
+✅ En cas d'erreur :
+## Requete PUT : 
+![image](https://github.com/user-attachments/assets/9ba2b815-9c03-4caf-a3de-e08e0edc52cc)
+## Requete DELETE : 
+![image](https://github.com/user-attachments/assets/7d3f1a95-67ee-4b03-835c-0c442136f49e)
 
 ### Auteur
 Yousra Msaouri Charroud 
